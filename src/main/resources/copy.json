@@ -1,0 +1,44 @@
+{
+	"schemaVersion": 1,
+	"id": "myfirstmod",
+	"version": "${version}",
+	"name": "My First Mod",
+	"description": "This is an description!",
+	"authors": [
+		"Muliu"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC-BY-NC-SA 4.0 + GNU GPLv3",
+	"icon": "assets/myfirstmod/icon.png",
+	"environment": "*",
+	"main": "muliu.myfirstmod.Myfirstmod",
+	"entrypoints": {
+		"main": [
+			"muliu.myfirstmod.Myfirstmod"
+		],
+		"client": [
+			"muliu.myfirstmod.MyfirstmodClient"
+		],
+		"fabric-datagen": [
+			"muliu.myfirstmod.MyfirstmodDataGenerator"
+		]
+	},
+	"mixins": [
+		"myfirstmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"custom": {
+    	"fabric:item-models": {}
+  	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

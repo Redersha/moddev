@@ -1,0 +1,69 @@
+{
+    "item.myfirstmod.ice_ether":"冰以太",
+    "item.myfirstmod.raw_ice_ether":"原始冰以太",
+    "item.myfirstmod.prospector":"探矿器",
+    "item.myfirstmod.nvidia_gtx690":"战术核显卡",
+    "item.myfirstmod.piece_of_nvidia_gtx690":"战术核显卡碎片",
+
+    "item.myfirstmod.hyper_corn":"超频玉米",
+    "item.myfirstmod.hyper_strawberry":"超频草莓",
+    "item.myfirstmod.hyper_strawberry_seeds":"超频草莓种子",
+
+    "item.myfirstmod.ice_ether_pickaxe":"冰以太镐",
+    "item.myfirstmod.ice_ether_axe":"冰以太斧",
+    "item.myfirstmod.ice_ether_shovel":"冰以太铲",
+    "item.myfirstmod.ice_ether_sword":"冰以太剑",
+    "item.myfirstmod.ice_ether_hoe":"冰以太锄",
+    "item.myfirstmod.ice_ether_pickaxe_axe":"冰以太斧镐",
+
+    "item.myfirstmod.ice_ether_helmet":"冰以太头盔",
+    "item.myfirstmod.ice_ether_chestplate":"冰以太胸甲",
+    "item.myfirstmod.ice_ether_leggings":"冰以太护腿",
+    "item.myfirstmod.ice_ether_boots":"冰以太靴子",
+
+    "block.myfirstmod.ice_ether_block":"冰以太块",
+    "block.myfirstmod.raw_ice_ether_block":"原始冰以太块",
+    "block.myfirstmod.ice_ether_ore":"冰以太矿石",
+    "block.myfirstmod.ice_ether_stairs":"冰以太楼梯",
+    "block.myfirstmod.ice_ether_slab":"冰以太台阶",
+    "block.myfirstmod.ice_ether_wall":"冰以太墙",
+    "block.myfirstmod.ice_ether_fence":"冰以太栅栏",
+    "block.myfirstmod.ice_ether_fence_gate":"冰以太栅栏门",
+    "block.myfirstmod.ice_ether_button":"冰以太按钮",
+    "block.myfirstmod.ice_ether_pressure_plate":"冰以太压力板",
+    "block.myfirstmod.ice_ether_door":"冰以太门",
+    "block.myfirstmod.ice_ether_trapdoor":"冰以太活板门",
+    "block.myfirstmod.basketball":"篮球",
+
+    "itemGroup.first_group":"猎奇物品",
+    "itemGroup.music_discs":"音乐唱片",
+
+    "item.myfirstmod.prospector.tooltip":"探矿器可以帮助你找到矿。右键点击地面来使用它。",
+    "fireproof.tooltip":"\u00A76此物品是防火的。\u00A7r",
+    "item.myfirstmod.ice_ether_pickaxe.tooltip":"我就问你，好不好用？",
+    "item.myfirstmod.ice_ether_axe.tooltip":"还挺好用的。",
+    "item.myfirstmod.ice_ether_shovel.tooltip":"你用这把铲子，我只能说你是这个。",
+    "item.myfirstmod.ice_ether_sword.tooltip":"说实话我自己都不知道为什么要做这把剑",
+    "item.myfirstmod.ice_ether_hoe.tooltip":"不是兄弟，你用石的或者铁的不行，非得用冰以太的？",
+
+    "item.myfirstmod.a_moment_apart_music_disc":"A Moment Apart（极限竞速：地平线4 开场曲）",
+    "item.myfirstmod.a_moment_apart_music_disc.desc":"A Moment Apart by ODESZA",
+    "item.myfirstmod.see_you_again_music_disc":"See You Again（速度与激情7 原声带）",
+    "item.myfirstmod.see_you_again_music_disc.desc":"See You Again by Wiz Khalifa ft. Charlie Puth",
+
+    "item.myfirstmod.ice_ether_pickaxe_axe.tooltip":"这到底是斧头还是镐子？",
+    "item.myfirstmod.tooltip":"超频到10GHz的食物!",
+    "item.myfirstmod.nvidia_gtx690.tooltip":"\u00A76...特别是搭载690战术核显卡的改进版本...\u00A7r",
+    "item.myfirstmod.nvidia_gtx690.tooltip2":"\u00A76按住Shift或Alt或Ctrl有惊喜！\u00A7r",
+    "item.myfirstmod.nvidia_gtx690.shift_tooltip":"用它来击败生物。",
+    "item.myfirstmod.nvidia_gtx690.alt_tooltip":"右键点击使用。",
+    "item.myfirstmod.nvidia_gtx690.ctrl_tooltip":"使用时会有炫酷的粒子效果！",
+    "item.myfirstmod.piece_of_nvidia_gtx690.tooltip":"可以用来合成战术核显卡",
+
+    "advancement.myfirstmod.tactical_nuclear.title":"战术核显卡！",
+    "advancement.myfirstmod.tactical_nuclear.desc":"一个航母战斗群都遭不住的力量！",
+    "advancement.myfirstmod.basketball.title":"老大！我想你了！",
+    "advancement.myfirstmod.basketball.description":"永远的黑曼巴！",
+
+    "entity.minecraft.villager.ice_ether_master":"冰以太大师"
+}

@@ -1,0 +1,18 @@
+{
+    "a_moment_apart_music_disc":{
+        "sounds":[
+            {
+                "name":"myfirstmod:a_moment_apart",
+                "stream":true
+            }
+        ]
+    },
+    "see_you_again_music_disc": {
+        "sounds": [
+            {
+                "name": "myfirstmod:see_you_again",
+                "stream": true
+            }
+        ]
+  }
+}

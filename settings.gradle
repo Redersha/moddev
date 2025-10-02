@@ -1,0 +1,10 @@
+pluginManagement {
+    repositories {
+        maven {
+            name = 'Fabric'
+            url = 'https://maven.fabricmc.net/'
+        }
+        gradlePluginPortal() // 确保包含 Gradle Plugin Portal
+        // mavenCentral() // 有时也可能需要，但通常 gradlePluginPortal() 足够
+    }
+}

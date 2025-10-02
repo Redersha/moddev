@@ -1,0 +1,75 @@
+{
+    "item.myfirstmod.ice_ether":"Ice Ether",
+    
+    "item.myfirstmod.raw_ice_ether":"Raw Ice Ether",
+    "item.myfirstmod.prospector":"Prospector",
+    "item.myfirstmod.nvidia_gtx690":"NVIDIA GTX 690",
+    "item.myfirstmod.piece_of_nvidia_gtx690":"Piece of NVIDIA GTX 690",
+
+    "item.myfirstmod.hyper_corn":"Hyper Corn",
+    "item.myfirstmod.hyper_strawberry":"Hyper Strawberry",
+
+    "item.myfirstmod.ice_ether_pickaxe":"Ice Ether Pickaxe",
+    "item.myfirstmod.ice_ether_axe":"Ice Ether Axe",
+    "item.myfirstmod.ice_ether_shovel":"Ice Ether Shovel",
+    "item.myfirstmod.ice_ether_sword":"Ice Ether Sword",
+    "item.myfirstmod.ice_ether_hoe":"Ice Ether Hoe",
+    "item.myfirstmod.ice_ether_pickaxe_axe":"Ice Ether PickAxe²",
+
+    "item.myfirstmod.ice_ether_helmet":"Ice Ether Helmet",
+    "item.myfirstmod.ice_ether_chestplate":"Ice Ether Chestplate", 
+    "item.myfirstmod.ice_ether_leggings":"Ice Ether Leggings",
+    "item.myfirstmod.ice_ether_boots":"Ice Ether Boots",
+
+
+    "item.myfirstmod.hyper_strawberry_seeds":"Hyper Strawberry Seeds",
+
+
+    "block.myfirstmod.ice_ether_block":"Ice Ether Block",
+    "block.myfirstmod.raw_ice_ether_block":"Raw Ice Ether Block",
+    "block.myfirstmod.ice_ether_ore":"Ice Ether Ore",
+    "block.myfirstmod.ice_ether_stairs":"Ice Ether Stairs",
+    "block.myfirstmod.ice_ether_slab":"Ice Ether Slab",
+    "block.myfirstmod.ice_ether_wall":"Ice Ether Wall",
+    "block.myfirstmod.ice_ether_fence":"Ice Ether Fence",
+    "block.myfirstmod.ice_ether_fence_gate":"Ice Ether Fence Gate",
+    "block.myfirstmod.ice_ether_button":"Ice Ether Button",
+    "block.myfirstmod.ice_ether_pressure_plate":"Ice Ether Pressure Plate",
+    "block.myfirstmod.ice_ether_door":"Ice Ether Door",
+    "block.myfirstmod.ice_ether_trapdoor":"Ice Ether Trapdoor",
+    "block.myfirstmod.basketball":"Basketball",
+
+    "itemGroup.first_group":"Unusual Items",
+    "itemGroup.music_discs":"Music Discs",
+
+
+    "fireproof.tooltip":"\u00A76This item is fireproof.\u00A7r",
+    "item.myfirstmod.ice_ether_pickaxe.tooltip":"A Incredibly powerful pickaxe.",
+    "item.myfirstmod.ice_ether_axe.tooltip":"A Incredibly powerful axe.",
+    "item.myfirstmod.ice_ether_shovel.tooltip":"A Incredibly powerful shovel.",
+    "item.myfirstmod.ice_ether_sword.tooltip":"A Incredibly powerful sword.",
+    "item.myfirstmod.ice_ether_hoe.tooltip":"A Incredibly powerful hoe.",
+
+
+    "item.myfirstmod.a_moment_apart_music_disc":"A Moment Apart (Forza Horizon 4 Opening Theme)",
+    "item.myfirstmod.a_moment_apart_music_disc.desc":"A Moment Apart by ODESZA",
+    "item.myfirstmod.see_you_again_music_disc":"See You Again (Furious 7 Soundtrack)",
+    "item.myfirstmod.see_you_again_music_disc.desc":"See You Again by Wiz Khalifa ft. Charlie Puth",
+
+    "item.myfirstmod.ice_ether_pickaxe_axe.tooltip":"A pickaxe? No! Its a pickaxe-axe hybrid!",
+    "item.myfirstmod.prospector.tooltip":"A tool for finding ores.",
+    "item.myfirstmod.tooltip":"10GHz Food!",
+    "item.myfirstmod.nvidia_gtx690.tooltip":"\u00A76A NUCLEAR_BOMB_LIKE graphics card!\u00A7r",
+    "item.myfirstmod.nvidia_gtx690.tooltip2":"\u00A76Press Shift/Alt/Ctrl for surprises!\u00A7r",
+    "item.myfirstmod.nvidia_gtx690.shift_tooltip":"Use it to defeat an entity.",
+    "item.myfirstmod.nvidia_gtx690.alt_tooltip":"Right-click to use it.",
+    "item.myfirstmod.nvidia_gtx690.ctrl_tooltip":"There are cool particle effects when you use it!",
+    "item.myfirstmod.piece_of_nvidia_gtx690.tooltip":"Use it to craft the NVIDIA GTX 690.",
+
+    "advancement.myfirstmod.tactical_nuclear.title":"GTX 690",
+    "advancement.myfirstmod.tactical_nuclear.description":"Use the NVIDIA GTX 690 to defeat an entity.",
+    "advancement.myfirstmod.basketball.title":"Kobe! I miss you!",
+    "advancement.myfirstmod.basketball.description":"Craft a basketball.",
+
+    "entity.minecraft.villager.ice_ether_master":"Ice Ether Master"
+}
